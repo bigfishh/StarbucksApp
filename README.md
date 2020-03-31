@@ -11,10 +11,7 @@
 
 <img src="sbimage.gif"
      alt="search bar"
-     style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;"/>
+     align="middle"/>
 
 ## Features 
 - Animated welcome display along with background "elevator" music and audio
