@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img width="100%" height="auto" src="Starbucks.gif">
+  <img width="90%" height="auto" src="Starbucks.gif">
 </p>
 
 ## Features 
