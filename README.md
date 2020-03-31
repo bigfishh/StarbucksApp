@@ -11,8 +11,6 @@
 
 ![](Starbucks.gif)
 
-<br />
-
 ## Features 
 - Animated welcome display along with background "elevator" music and audio
 - Sign in/sign up option with authenticated password
