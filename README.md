@@ -32,9 +32,9 @@ This web app makes use of the following:
 - Colorize - Gem for colorizing text using ANSI escape sequences
 
 ## Installing
-- Clone this repo to your local machine `git clone <this-repo-url>`.
-- run `cd StarbucksWithA-B`.
+- Clone this repo to your local machine `git clone <this-repo-url>`
+- run `cd StarbucksWithA-B` to access the project
 - run `bundle install` to install required dependencies
-- run `rake db:migrate` to create tables into the database.
-- run `rake db:seed` to create seed data.
-- run `ruby bin/run.rb` to run the app.
+- run `rake db:migrate` to create tables into the database
+- run `rake db:seed` to create seed data
+- run `ruby bin/run.rb` to run the app
