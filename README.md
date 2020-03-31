@@ -9,9 +9,7 @@
   </sub>
 </div>
 
-<p align="center">
-  <img style="margin-left:10%" width="90%" height="60%" src="sbimage.gif">
-</p>
+  <img align="center" style="margin-left:10%" width="90%" height="60%" src="sbimage.gif">
 
 ## Features 
 - Animated welcome display along with background "elevator" music and audio
