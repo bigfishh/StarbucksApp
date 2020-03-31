@@ -11,7 +11,7 @@
 
 <img src="Starbucks.gif"
      alt="search bar"
-     style="max-width: 100%; alight:center "/>
+     style="max-width: 100%; align:center "/>
 
 ## Features 
 - Animated welcome display along with background "elevator" music and audio
