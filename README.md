@@ -9,6 +9,8 @@
   </sub>
 </div>
 
+![](Starbucks.gif)
+
 <br />
 
 ## Features 
@@ -19,7 +21,7 @@
   - Get caffinated
   - Starbucks locations (pre-seeded data)
   - Beverage options
-- Full CRUD capabilities for users such as updating username/password and deleting account.
+- Full CRUD capabilities for users such as updating username/password and deleting account
 
 ## Tech Stack
 This web app makes use of the following:
