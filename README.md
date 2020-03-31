@@ -9,9 +9,9 @@
   </sub>
 </div>
 
-<img src="sbimage.gif"
-     alt="search bar"
-     align="middle"/>
+<p align="center">
+  <img width="460" height="300" src="sbimage.gif">
+</p>
 
 ## Features 
 - Animated welcome display along with background "elevator" music and audio
