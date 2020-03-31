@@ -9,7 +9,7 @@
   </sub>
 </div>
 
-<img src="Starbucks.gif"
+<img src="sbimage.gif"
      alt="search bar"
      style="display: block;
   margin-left: auto;
