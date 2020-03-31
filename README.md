@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img width="460" height="300" src="sbimage.gif">
+  <img width="100%" height="auto" src="sbimage.gif">
 </p>
 
 ## Features 
