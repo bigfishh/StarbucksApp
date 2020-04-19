@@ -34,7 +34,7 @@ This web app makes use of the following:
 
 ## Installing
 - Clone this repo to your local machine `git clone <this-repo-url>`
-- run `cd StarbucksWithA-B` to access the project
+- run `cd starbuckswitha-b` to access the project
 - run `bundle install` to install required dependencies
 - run `rake db:migrate` to create tables into the database
 - run `rake db:seed` to create seed data
